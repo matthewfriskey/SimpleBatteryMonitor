@@ -1,0 +1,4 @@
+SimpleBatteryMonitor  KEYWORD1
+configure       KEYWORD2
+begin           KEYWORD2
+readVoltage     KEYWORD2
